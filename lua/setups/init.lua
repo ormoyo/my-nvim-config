@@ -1,0 +1,5 @@
+require('setups.telescope')
+require('setups.treesitter')
+require('setups.lsp')
+require('setups.cmp')
+require('setups.mini')
